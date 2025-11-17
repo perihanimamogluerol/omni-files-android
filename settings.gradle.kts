@@ -22,3 +22,4 @@ dependencyResolutionManagement {
 rootProject.name = "omni-files-android"
 include(":app")
 include(":data")
+include(":domain")
